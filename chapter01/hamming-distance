@@ -1,0 +1,8 @@
+def hamming_distance(a, b):
+  assert len(a) == len(b) #a und b müssen gleich lang sein!!
+  dist = 0
+  for x, y in zip(a, b): #zip nimmt mehrere Iterable und zippt sie zusammen
+                         #Sie bilden Paare von Elementen die an denselben Positionen in den einzelnen Iterables stehen
+      if x != y: #wenn sich zwei Elemente unterscheiden, wird die Distanz erhöht
+          dist += 1
+  return dist
