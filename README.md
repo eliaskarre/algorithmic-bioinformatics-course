@@ -1,4 +1,4 @@
-# Chapters of the book "Vol.1 Compeau, Phillip_ Pevzner, Pavel - Bioinformatics algorithms. an active learning approach-Active Learning Publishers (2015)"
+# "Compeau, Phillip_ Pevzner, Pavel - Bioinformatics algorithms. an active learning approach. (2015)"
 
 ## Chapter 1: Where in the Genome Does DNA Replication Begin?
 ## Chapter 2: Motif Search
