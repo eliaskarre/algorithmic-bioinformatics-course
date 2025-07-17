@@ -15,4 +15,5 @@ Many of these problems and their description can also be found here: https://ros
 ## Chapter 7: Evolutionary Trees
 ## Chapter 8: Clustering
 ## Chapter 9: Pattern Matching (Trie, Suffix Tree, BWT) 
-## Cahpter 10: Hidden Markov Models
+## Chapter 10: Hidden Markov Models
+## Chapter 11: Computational Proteomics
