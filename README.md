@@ -2,7 +2,9 @@
 
 The lecture follows chapters of the book "Compeau, Phillip_ Pevzner, Pavel - Bioinformatics algorithms. an active learning approach. (2015)", which is freely available. 
 
-The Python scripts provided here represent my solution approaches for various problems described in the book
+The Python scripts provided here represent my solution approaches for various problems described in the book.
+
+Many of these problems and their description can also be found here: https://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track
 
 ## Chapter 1: Where in the Genome Does DNA Replication Begin?
 ## Chapter 2: Motif Search
