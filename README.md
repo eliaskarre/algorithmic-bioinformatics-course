@@ -1,6 +1,6 @@
 # Algorithmic Bioinformatics Course (Wintersemester 2024)
 
-The lecture follows chapters of the book "Compeau, Phillip_ Pevzner, Pavel - Bioinformatics algorithms. an active learning approach. (2015)", which is freely available. 
+The lecture follows chapters of the book <b>"Compeau, Phillip Pevzner, Pavel - Bioinformatics algorithms. an active learning approach. (2015)" </b>, which is freely available. 
 
 The Python scripts provided here represent my solution approaches for various problems described in mentioned book.
 
