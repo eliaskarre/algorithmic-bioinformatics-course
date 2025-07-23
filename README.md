@@ -4,8 +4,6 @@ This repository shows my practical work in algorithmic bioinformatics by impleme
 
 <b>"Compeau, Phillip Pevzner, Pavel - Bioinformatics algorithms. an active learning approach. (2015)" </b> https://www.bioinformaticsalgorithms.org/read-the-book 
 
-The Python scripts provided here represent my solution approaches for various problems in bioinformatics described in mentioned book.
-
 Many of these problems and their description can also be found here: https://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track
 
 ## Chapter 1: Basics
